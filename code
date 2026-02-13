@@ -1,0 +1,123 @@
+
+#CWall's information. All information listed below is in string format, and will have their name, age, grade, driving license status, and email.
+calN = "Caleb Wall"
+calA = "16"
+calG = "11th"
+calDL = "False"
+calE = "278472@burlcoschools.org"
+
+#WSpaugh's information
+wesN = "Wes Spaugh"
+wesA = "16"
+wesG = "11th"
+wesDL = "False"
+wesE = "279089@burlcoschools.org"
+
+#ARapetti's information
+andN = "Andrew Rapetti"
+andA = "16"
+andG = "11th"
+andDL = "False"
+andE = "278430@burlcoschools.org"
+
+#CDavis' information
+davN = "Chris Davis"
+davA = "16"
+davG = "11th"
+davDL = "False"
+davE = "269329@burlcoschools.org"
+
+#MAgbakwu's information (me!)
+marN = "Martins Jr Agbakwu"
+marA = "16"
+marG = "11th"
+marDL = "False"
+marE = "278827@burlcoschools.org"
+
+#ADowling's information
+aleN = "Alexander Dowling"
+aleA = "16"
+aleG = "11th"
+aleDL = "False"
+aleE = "279235@burlcoschools.org"
+
+#DGuzman's information
+dylN = "Dylan Guzman medina"
+dylA = "16"
+dylG = "11th"
+dylDL = "False"
+dylE = "278509@burlcoschools.org"
+
+#TKeane's information
+tylN = "Tyler Keane"
+tylA = "17"
+tylG = "11th"
+tylDL = "False"
+tylE = "Email: 269260@burlcoschools.org"
+
+#AEsparra's information
+abrN = "Abraham Esparra"
+abrA = "16"
+abrG = "11th"
+abrDL = "False"
+abrE = "269360@burlcoschools.org"
+
+#BCox's information
+braN = "Brandon Cox"
+braA = "17"
+braG = "11th"
+braDL = "True"
+braE = "278583@burlcoschools.org"
+
+#output listing information for all students. There name is the header. Their age, grade, driving license status, is then listed using the prior variables.
+
+print(f"=====================   {calN}   =====================") #Caleb's
+print(f"Age: {calA}")
+print(f"Grade: {calG}")
+print(f"Driving License: {calDL}")
+print(f"Email: {calE}")
+print(f"=====================   {wesN}   =====================")#Wes'
+print(f"Age: {wesA}")
+print(f"Grade: {wesG}")
+print(f"Driving License: {wesDL}")
+print(f"Email: {wesE}")
+print(f"=====================   {andN}   =====================")#Andrew's
+print(f"Age: {andA}")
+print(f"Grade: {andG}")
+print(f"Driving License: {andDL}")
+print(f"Email: {andE}")
+print(f"=====================   {davN}   =====================")#Chris'
+print(f"Age: {davA}")
+print(f"Grade: {davG}")
+print(f"Driving License: {davDL}")
+print(f"Email: {davE}")
+print(f"=====================   {marN}   =====================")#Martins'
+print(f"Age: {marA}")
+print(f"Grade: {marG}")
+print(f"Driving License: {marDL}")
+print(f"Email: {marE}")
+print(f"=====================   {aleN}   =====================")#Alexander's
+print(f"Age: {aleA}")
+print(f"Grade: {aleG}")
+print(f"Driving License: {aleDL}")
+print(f"Email: {aleE}")
+print(f"=====================   {dylN}   =====================") #Dylan's
+print(f"Age: {dylA}")
+print(f"Grade: {dylG}")
+print(f"Driving License: {dylDL}")
+print(f"Email: {dylE}")
+print(f"=====================   {tylN}   =====================") #Tyler's
+print(f"Age: {tylA}")
+print(f"Grade: {tylG}")
+print(f"Driving License: {tylDL}")
+print(f"Email: {tylE}")
+print(f"=====================   {abrN}   =====================")#Abraham's
+print(f"Age: {abrA}")
+print(f"Grade: {abrG}")
+print(f"Driving License: {abrDL}")
+print(f"Email: {abrE}")
+print(f"=====================   {braN}   =====================") #Brandon's
+print(f"Age: {braA}")
+print(f"Grade: {braG}")
+print(f"Driving License: {braDL}")
+print(f"Email: {braE}")
